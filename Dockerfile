@@ -1,4 +1,4 @@
-FROM richard1ybb/stf:9864923ce2a5f95acb796ba2df4a8833e9b3348d
+FROM richard1ybb/stf:af59038414db131e0490b8a06b18201f34945ebc
 
 # https://github.com/zebrunner/android-device/issues/70
 #    gray screen on android after 48 hours without restart
